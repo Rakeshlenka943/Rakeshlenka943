@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently mastering **Python, Data Science, and ML basics**  
-- 🎯 **Current Goal (2026 Aug–Oct, 3rd Semester / 1st Year of 2nd Year):**  
+- 🎯 **Current Goal (2026 Aug–Oct, 3rd Semester / 1st Semester of 2nd Year):**  
   Secure a **good internship (paid or stipend)** in **Computer Science, AI & ML**  
 - 🏆 **Final Goal:** Land a **high-paying job in AI/ML field** by graduation (2029)  
 - 💡 Exploring projects in **AI, Robotics, and Frontend fun experiments**  
