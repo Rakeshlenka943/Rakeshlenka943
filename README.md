@@ -69,7 +69,7 @@
   <a href="https://www.kaggle.com/rakeshlenka941">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/yourprofile">
+  <a href="[https://leetcode.com/yourprofile](https://leetcode.com/u/DlAcpQX1q8/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
