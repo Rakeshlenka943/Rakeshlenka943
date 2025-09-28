@@ -48,7 +48,7 @@
 - GitHub: https://github.com/Rakeshlenka943  
 - Kaggle: https://www.kaggle.com/rakeshlenka941  
 - LeetCode: https://leetcode.com/u/DlAcpQX1q8/  (profile exists; DSA training will start later)  
-- LinkedIn: (coming soon)
+- LinkedIn: https://www.linkedin.com/in/rakesh-lenka-0a6452387/
 
 ---
 
