@@ -5,54 +5,60 @@
 ### Mechanical Engineering (AI & Robotics) • OUTR
 
 <p align="center">
-  <i>Building the bridge between Hardware Physics and Software Logic.</i>
+  <b>Bridging Mechanical Systems & Computational Intelligence</b>
+  <br>
+  <i>Focusing on Low-Level Systems, Embodied AI, and Hardware Acceleration.</i>
 </p>
 
----
+<br>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
 
 </div>
 
-## ⚡ Current Status
-I am transitioning from high-level scripting to **Low-Level Systems Engineering**. My goal is to understand the "metal" of the machine before automating it.
+---
 
-| **Now Loading...** ⏳ | **Background** 🎒 |
+## 🖥️ System Status: _Active_
+
+Currently transitioning from high-level application logic to **low-level systems optimization**. My work focuses on understanding how software interacts with the "metal" of the machine.
+
+| **🚀 Current Focus** | **🛠️ Technical Core** |
 | :--- | :--- |
-| **Languages:** C, Modern C++ | **Languages:** Python (Data Science basics) |
-| **Focus:** Memory Management, Pointers | **Focus:** Automation Scripts |
-| **Environment:** Linux / WSL2 | **Tools:** Jupyter, Pandas |
+| **Systems Programming** (C/C++) | **Algorithms:** Data Structures & Memory Mgmt |
+| **Hardware:** Low-Level Optimization | **Environment:** Linux / WSL2 Subsystem |
+| **Domain:** Embodied AI & Simulation | **Tools:** Jupyter, Pandas, GCC/G++ |
 
 ---
 
-## 🛠️ Selected Work
+## 📂 Engineering Archives
 
-> *I believe in "Quality over Quantity." My public repositories represent concepts I have built from scratch.*
+> *Selected repositories representing core engineering concepts.*
 
-### 🟢 Active Experiments
-* **[Memory-Playground](https://github.com/your-username/repo-name)** (Coming Soon)
-    * *Exploring manual memory allocation and pointer arithmetic in C.*
-* **[Heart-Graph](https://github.com/Rakeshlenka943/heart-graph)**
-    * *A lightweight interactive visualization using HTML5 Canvas & JS.*
+### ⚡ **[Systems-Lab](https://github.com/your-username/repo-name)** _(Active)_
+* A playground for **manual memory management**, pointer arithmetic, and custom data structures in C.
+* *Objective:* Re-implementing standard library functions to understand underlying mechanics.
 
-### 🟡 Archived Learning
-* *Old Python templates and "Hello World" scripts are archived to keep this profile clean.*
+### 📊 **[Interactive Visualization](https://github.com/Rakeshlenka943/heart-graph)**
+* A lightweight, mathematical visualization engine using **HTML5 Canvas & JavaScript**.
+* *Objective:* Exploring interactive rendering logic and mathematical modeling.
 
 ---
 
 <div align="center">
 
-### 📫 Connect
+<br>
+
 <a href="https://www.linkedin.com/in/rakesh-lenka-0a6452387/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://kaggle.com/rakeshlenka941">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Kaggle_Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </div>
