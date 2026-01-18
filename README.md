@@ -1,62 +1,58 @@
-<!-- Profile Header -->
-<h1 align="center">Rakesh Lenka 👋</h1>
+<div align="center">
+
+# Rakesh Lenka
+
+### Mechanical Engineering (AI & Robotics) • OUTR
+
 <p align="center">
-  🎓 B.Tech Mechanical Engineering (AI & Robotics) — OUTR (2025–2029) <br>
-  🐍 Aspiring AI Engineer • Learning Python, Data Science & ML basics • Daily practice
+  <i>Building the bridge between Hardware Physics and Software Logic.</i>
 </p>
 
 ---
 
-## 🔥 Snapshot — September 2025
-- ✅ Started **Kaggle Python** micro-course and basic hands-on exercises.  
-- ✅ Wrote my first self-authored script: `python_basics/hello_world.py`.  
-- ✅ Published a small personal experiment: **heart-graph** (interactive HTML/JS visual).  
-- ✅ Created tidy repo structure and archived old template content so my public work is honest and original.
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-> Current status: actively learning and building. I have **not started formal LeetCode/DSA rounds yet** — right now my focus is on Python, data handling, and small hands-on projects.
+<br><br>
 
----
+</div>
 
-## 🎯 October 2025 — Near-term focus
-- Launch a **Hello-World Streamlit demo** (deploy a minimal app and share a demo GIF / link).  
-- Continue **Math Foundations** (linear algebra + probability basics).  
-- Convert `notebooks/pandas_basics.ipynb` into a cleaned, original learning notebook.  
-- Continue consistent GitHub commits and project polishing.
+## ⚡ Current Status
+I am transitioning from high-level scripting to **Low-Level Systems Engineering**. My goal is to understand the "metal" of the machine before automating it.
 
----
-
-## 🛠️ Tech & Tools (current)
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</p>
+| **Now Loading...** ⏳ | **Background** 🎒 |
+| :--- | :--- |
+| **Languages:** C, Modern C++ | **Languages:** Python (Data Science basics) |
+| **Focus:** Memory Management, Pointers | **Focus:** Automation Scripts |
+| **Environment:** Linux / WSL2 | **Tools:** Jupyter, Pandas |
 
 ---
 
-## 📂 Featured (what’s public now)
-- ❤️ **heart-graph** — a fun interactive curve experiment (HTML + JS).  
-  https://github.com/Rakeshlenka943/heart-graph  
-- 🧪 **python_basics/hello_world.py** — simple script I wrote myself to start practicing real code.  
-- 🔒 Old template files are archived (preserved) in an archive branch; current public work is original.
+## 🛠️ Selected Work
+
+> *I believe in "Quality over Quantity." My public repositories represent concepts I have built from scratch.*
+
+### 🟢 Active Experiments
+* **[Memory-Playground](https://github.com/your-username/repo-name)** (Coming Soon)
+    * *Exploring manual memory allocation and pointer arithmetic in C.*
+* **[Heart-Graph](https://github.com/Rakeshlenka943/heart-graph)**
+    * *A lightweight interactive visualization using HTML5 Canvas & JS.*
+
+### 🟡 Archived Learning
+* *Old Python templates and "Hello World" scripts are archived to keep this profile clean.*
 
 ---
 
-## 📌 Links
-- GitHub: https://github.com/Rakeshlenka943  
-- Kaggle: https://www.kaggle.com/rakeshlenka941  
-- LeetCode: https://leetcode.com/u/DlAcpQX1q8/  (profile exists; DSA training will start later)  
-- LinkedIn: https://www.linkedin.com/in/rakesh-lenka-0a6452387/
+<div align="center">
 
----
+### 📫 Connect
+<a href="https://www.linkedin.com/in/rakesh-lenka-0a6452387/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kaggle.com/rakeshlenka941">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
-## ✨ How I work
-- Short, measurable monthly goals.  
-- Code I publish is either authored by me or explicitly labeled as learning templates I will refactor.  
-- Monthly updates will be added here so readers can see real progress.
-
----
-
-If you want to follow the progress, check this page at the end of each month — I post the small, real deliverable I finished.
+</div>
